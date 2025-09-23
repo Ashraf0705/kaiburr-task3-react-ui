@@ -39,7 +39,7 @@ The UI is built using **React 19**, **TypeScript**, and the **Ant Design** compo
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/kaiburr-task3-react-ui.git
+    git clone https://github.com/Ashraf0705/kaiburr-task3-react-ui.git
     cd kaiburr-task3-react-ui
     ```
 
